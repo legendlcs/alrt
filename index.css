@@ -1,9 +1,12 @@
+<link rel="stylesheet"
+      href="https://fonts.googleapis.com/css?family=Righteous">
+
 h1 {
-  color: lightskyblue;
+  color: dodgerblue;
 }
 
 major-mono {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Righteous', cursive;
 }
 
 
